@@ -1,0 +1,6 @@
+ <?php
+      define('school',"California State University at San Bernardino");
+      define('programs',4);
+      echo "Our school is ".school."<br>";
+      echo "Our school's Computer Science Dept has ".programs." academic programs";
+ ?>
